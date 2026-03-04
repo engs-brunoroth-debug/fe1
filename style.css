@@ -29,3 +29,7 @@ button:hover {
 p::first-letter {
     font-size: 200%;
 }
+
+#lista li:first-child {
+    font-weight: bold;
+}
