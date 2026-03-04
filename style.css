@@ -17,3 +17,7 @@ p {
 input[type="password"] {
     border: 2px solid blue;
 }
+
+button:hover {
+    background-color: rgb(7, 251, 104); 
+}
