@@ -9,3 +9,7 @@ p {
 .destaque {
     background-color: yellow;
 }
+
+.importante {
+    color: red;
+}
