@@ -21,3 +21,7 @@ input[type="password"] {
 button:hover {
     background-color: rgb(7, 251, 104); 
 }
+
+.container > div > p {
+    color: rgb(8, 35, 240); 
+}
