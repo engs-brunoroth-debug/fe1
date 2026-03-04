@@ -25,3 +25,7 @@ button:hover {
 .container > div > p {
     color: rgb(8, 35, 240); 
 }
+
+p::first-letter {
+    font-size: 200%;
+}
